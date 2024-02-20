@@ -1,0 +1,6 @@
+/Users/oribennun/Tiltan/Delegates/DelegatesWork/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe
+/Users/oribennun/Tiltan/Delegates/DelegatesWork/ConsoleApplication1/bin/Debug/ConsoleApplication1.pdb
+/Users/oribennun/Tiltan/Delegates/DelegatesWork/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.AssemblyReference.cache
+/Users/oribennun/Tiltan/Delegates/DelegatesWork/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.CoreCompileInputs.cache
+/Users/oribennun/Tiltan/Delegates/DelegatesWork/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe
+/Users/oribennun/Tiltan/Delegates/DelegatesWork/ConsoleApplication1/obj/Debug/ConsoleApplication1.pdb
